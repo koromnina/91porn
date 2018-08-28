@@ -1,0 +1,3 @@
+requets
+bs4
+lxml
